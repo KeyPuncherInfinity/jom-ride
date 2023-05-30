@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "919205100909",
+    "project_id": "jom-ride",
+    "storage_bucket": "jom-ride.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919205100909:android:b2a17486ca4a4d7b016e64",
+        "android_client_info": {
+          "package_name": "com.jom.ride"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvX_Ynohz23Alm4tSRq8Vt3qABpFT6Mrk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
